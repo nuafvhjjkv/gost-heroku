@@ -1,4 +1,4 @@
-## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FVerSign010%2Fgost-heroku)
+## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://camo.githubusercontent.com/bcffcd4a539d4b3c4bde97e0cea7503b9ac8d751ff8e4b5c5ad007a0eb59f518/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e706e67)
 
 > 1. 服务端部署后，view查看，显示`404 page not found`，表示部署成功。
 
